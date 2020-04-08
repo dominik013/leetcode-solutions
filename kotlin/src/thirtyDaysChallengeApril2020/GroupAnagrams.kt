@@ -54,6 +54,12 @@ object GroupAnagrams {
      *
      */
     fun groupAnagrams2(strs: Array<String>): List<List<String>> {
-        val map = mutableMapOf<>()
+        val map = mutableMapOf<String, MutableList<String>>()
+
+        for (str in strs) {
+            val key = 
+        }
+
+        return map.values.toMutableList()
     }
 }
