@@ -57,7 +57,7 @@ object GroupAnagrams {
         val map = mutableMapOf<String, MutableList<String>>()
 
         for (str in strs) {
-            val key = 
+            //val key =
         }
 
         return map.values.toMutableList()
