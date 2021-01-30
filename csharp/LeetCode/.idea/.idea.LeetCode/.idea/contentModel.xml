@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_LeetCode.2139978055.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.5.0/build/netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/2.1.0/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/2.1.0/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/2.1.0/build/netcoreapp1.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="LeetCode" t="IncludeRecursive">
+        <e p="LeetCode.csproj" t="IncludeRecursive" />
+        <e p="Leetcode006.cs" t="Include" />
+        <e p="Leetcode007.cs" t="Include" />
+        <e p="Leetcode008.cs" t="Include" />
+        <e p="Leetcode009.cs" t="Include" />
+        <e p="Leetcode010.cs" t="Include" />
+        <e p="Leetcode011.cs" t="Include" />
+        <e p="Leetcode012.cs" t="Include" />
+        <e p="Leetcode013.cs" t="Include" />
+        <e p="Leetcode014.cs" t="Include" />
+        <e p="Leetcode015.cs" t="Include" />
+        <e p="Leetcode016.cs" t="Include" />
+        <e p="Leetcode020.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LeetCode.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LeetCode.sln" t="IncludeFlat" />
+      <e p="LeetCodeTest" t="IncludeRecursive">
+        <e p="LeetCodeTest.csproj" t="IncludeRecursive" />
+        <e p="Leetcode006Test.cs" t="Include" />
+        <e p="Leetcode007Test.cs" t="Include" />
+        <e p="Leetcode008Test.cs" t="Include" />
+        <e p="Leetcode009Test.cs" t="Include" />
+        <e p="Leetcode010Test.cs" t="Include" />
+        <e p="Leetcode011Test.cs" t="Include" />
+        <e p="Leetcode012Test.cs" t="Include" />
+        <e p="Leetcode013Test.cs" t="Include" />
+        <e p="Leetcode014Test.cs" t="Include" />
+        <e p="Leetcode015Test.cs" t="Include" />
+        <e p="Leetcode016Test.cs" t="Include" />
+        <e p="Leetcode020Test.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LeetCodeTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
